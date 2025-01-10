@@ -1,9 +1,9 @@
 # SlidesCodeHighlighter
 A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 
-**[Open the app](https://romannurik.github.io/SlidesCodeHighlighter/)**
+**[Open the app](https://zachary-lee-jaeho.github.io/SlidesCodeHighlighter/)**
 
-![Screenshot](https://raw.githubusercontent.com/romannurik/SlidesCodeHighlighter/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/zachary-lee-jaeho/SlidesCodeHighlighter/main/screenshot.png)
 
 
 ## Build instructions
